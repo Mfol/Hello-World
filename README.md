@@ -1,2 +1,3 @@
 # Hello-World
-Github Intro
+
+I am a student of Mathematics with interests in computing.
